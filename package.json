@@ -83,7 +83,7 @@
     "i18next-icu": "^2.0.3",
     "intl-messageformat": "^9.12.0",
     "ipfs-http-client": "56.0.2",
-    "ipfsd-ctl": "10.0.6",
+    "ipfsd-ctl": "14.0.0",
     "it-last": "^1.0.6",
     "multiaddr": "10.0.1",
     "multiaddr-to-uri": "8.0.0",
